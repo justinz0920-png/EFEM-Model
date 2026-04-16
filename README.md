@@ -8,7 +8,7 @@
 # The End of Visual Ontology: The Entropy-Fidelity Equilibrium Model (EFEM) Manifesto
 **Author:** Jie Justin Zhou
 **Date:** April 12, 2026
-**Identity Anchor:** Passport No. **AC7******83** (Canada)
+**Identity Anchor:** No. **AC7******83** 
 **Academic Affiliation:** ESCAC (Jie.zhou@escac.com)
 ## 1. Introduction: The Paradox of Realism
 Human civilization stands at a visual crossroads. We are facing a profound cognitive dissonance: the grainy images of the 1990s Gulf War were doubted due to "Information Poverty," while the flawless AIGC videos of 2026 are rejected due to "Information Redundancy."
@@ -39,8 +39,7 @@ The EFEM model is more than a mathematical tool; it is a philosophical warning. 
 > 
 ### **Contact & Copyright Attribution**
 **Jie Justin Zhou** * **Academic Email:** Jie.zhou@escac.com
- * **Personal Email:** justinz0920@gmail.com
- * **Verification:** Canadian Passport **AC7******83**
+ * **Verification:** **AC7******83**
 The EFEM model and the function R = f(I) \cdot e^{-\lambda | \Phi(I) - S |} are the original intellectual property of the author. All global academic priority and copyrights regarding this model and the "Reality Compiler" framework are reserved.)
 
 ---
@@ -51,7 +50,7 @@ The EFEM model and the function R = f(I) \cdot e^{-\lambda | \Phi(I) - S |} are 
 # 视觉本体论的终结：熵-保真度平衡模型 (EFEM) 宣言
 **作者：** Jie Justin Zhou (周杰)
 **日期：** 2026年4月12日
-**身份锚点：** 加拿大护照 AC7******83
+**身份锚点：** AC7******83
 **学术机构：** ESCAC (Jie.zhou@escac.com)
 ## 一、 核心引言：真实性的悖论
 人类文明正处于视觉史的十字路口。我们正面临一种深层的认知错位：1990年代海湾战争的模糊影像因“信息贫瘠”而受质疑，而2026年 AIGC 生成的极致画面却因“信息冗余”而令人不安。
@@ -84,7 +83,6 @@ EFEM 模型不仅是一个数学工具，更是一份哲学警告。当我们掌
 本模型及其核心函数逻辑由 **Jie Justin Zhou** 独创。作者保留所有关于该模型及“现实编译器”研究框架的全球学术首发权与著作权。
 **联系方式：**
  * 学术邮箱：Jie.zhou@escac.com
- * 个人邮箱：justinz0920@gmail.com
  )
 
 # EFEM-Model
